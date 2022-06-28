@@ -1,0 +1,147 @@
+.jumbotron{
+    background-image: url("https://www.commonwealthfund.org/sites/default/files/styles/countries_hero_desktop/public/country_image_France.jpg?h=007ba93e&itok=NMxfR0Jy");
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 0;
+    height: 80vh;
+    
+    
+}
+
+footer{
+    display: flex;
+    justify-content: center;
+    background-color: #666;
+    height: 100px;
+    padding: 20px;
+}
+
+footer a{
+    margin: 5px;
+    text-decoration: none !important;
+}
+
+.social-icon{
+    display: inline-flex;
+    width: 50px;
+    height: 50px;
+    color: #666;
+    background-color: white;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+}
+
+.social-icon:hover{
+    color: #222;
+
+}
+
+h1{
+    color: black;
+    text-align: center;
+}
+
+.div1{
+    background-color: white;
+    height: 1170px;
+    padding: 5px;
+}
+
+.div2{
+    height: 390px;
+}
+
+.div3{
+    height: 390px;
+}
+
+.div4{
+    height: 390px;
+}
+
+
+.div11{
+    width: 100%;
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+.div111{
+    background-color: rgb(219, 219, 217);
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 330px;
+    text-align: center;
+    font: bold;
+}
+
+.div22{
+    width: 100%;
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+.div222 img{
+    width: 75%;
+}
+
+.div333 img{
+    width: 75%;
+}
+
+.div222{
+    background-color: rgb(219, 219, 217);
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 330px;
+    text-align: center;
+    font: bold;
+}
+
+.div33{
+    width: 100%;
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+.div333{
+    background-color: rgb(219, 219, 217);
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 330px;
+    text-align: center;
+    font: bold;
+}
+
+
+.pagelink a:link{
+  color: rgb(0, 0, 0);
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+.pagelink a:visited{
+  color: rgb(225, 170, 180);
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+.pagelink a:hover{
+  color: rgb(255, 38, 0);
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+.pagelink a:active{
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
